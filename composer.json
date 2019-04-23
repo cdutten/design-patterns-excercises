@@ -1,0 +1,25 @@
+{
+    "name": "cdutten/design-patterns-excercises",
+    "description": "diferents problems that i want to solve with design patterns",
+    "type": "project",
+    "require-dev": {
+        "ext-mbstring": "*",
+        "phpunit/phpunit": "^7.5",
+        "mockery/mockery": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Strategy\\": "src/strategy"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cesar",
+            "email": "cesar.dutten@extendeal.com"
+        }
+    ],
+    "require": {
+        "squizlabs/php_codesniffer": "3.4.2"
+    }
+}
