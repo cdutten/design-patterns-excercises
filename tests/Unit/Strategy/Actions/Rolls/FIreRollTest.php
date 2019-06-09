@@ -1,6 +1,6 @@
 <?php
 
-namespace unit\strategy\Actions\Rolls;
+namespace Tests\Unit\Strategy\Actions\Rolls;
 
 use Strategy\Actions\Rolls\FIreRoll;
 use PHPUnit\Framework\TestCase;

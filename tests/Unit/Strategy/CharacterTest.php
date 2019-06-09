@@ -1,6 +1,6 @@
 <?php
 
-namespace unit\strategy;
+namespace Tests\Unit\Strategy;
 
 use Mockery;
 use PHPUnit\Framework\TestCase;

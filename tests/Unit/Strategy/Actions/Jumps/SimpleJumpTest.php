@@ -1,6 +1,6 @@
 <?php
 
-namespace unit\strategy\Actions\Jumps;
+namespace Tests\Unit\Strategy\Actions\Jumps;
 
 use Strategy\Actions\Jumps\SimpleJump;
 use PHPUnit\Framework\TestCase;

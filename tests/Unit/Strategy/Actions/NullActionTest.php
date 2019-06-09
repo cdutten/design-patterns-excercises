@@ -1,6 +1,6 @@
 <?php
 
-namespace unit\strategy\Actions;
+namespace Tests\Unit\Strategy\Actions;
 
 use Strategy\Actions\NullAction;
 use PHPUnit\Framework\TestCase;

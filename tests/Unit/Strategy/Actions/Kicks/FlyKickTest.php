@@ -1,6 +1,6 @@
 <?php
 
-namespace unit\strategy\Actions\Kicks;
+namespace Tests\Unit\Strategy\Actions\Kicks;
 
 use PHPUnit\Framework\TestCase;
 use Strategy\Actions\Kicks\FlyKick;

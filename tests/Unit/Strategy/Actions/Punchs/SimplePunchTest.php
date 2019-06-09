@@ -1,6 +1,6 @@
 <?php
 
-namespace unit\strategy\Actions\Punchs;
+namespace Tests\Unit\Strategy\Actions\Punchs;
 
 use Strategy\Actions\Punchs\SimplePunch;
 use PHPUnit\Framework\TestCase;
