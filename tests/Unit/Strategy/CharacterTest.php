@@ -4,6 +4,9 @@ namespace Tests\Unit\Strategy;
 
 use Mockery;
 use PHPUnit\Framework\TestCase;
+use Strategy\Actions\Jumps\LightningJump;
+use Strategy\Actions\Jumps\SimpleJump;
+use Strategy\Actions\Kicks\SimpleKick;
 use Strategy\Character;
 use Strategy\CharacterActions;
 

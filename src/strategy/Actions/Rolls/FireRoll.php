@@ -8,7 +8,7 @@ use Strategy\Actions\IAction;
  * Class FIreRoll
  * @package Strategy\Actions\Rolls
  */
-class FIreRoll implements IAction
+class FireRoll implements IAction
 {
     /**
      * Do the action.
